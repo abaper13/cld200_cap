@@ -13,7 +13,8 @@
     "@sap-cloud-sdk/http-client": "^2.5.0",
     "@sap/cds": "^6",
     "@sap/cds-dk": "^7",
-    "express": "^4"
+    "express": "^4",
+    "sqlite": "^5.0.1"
   },
   "devDependencies": {
     "@sap/ux-specification": "^1.108.15",
