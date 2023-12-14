@@ -20,7 +20,7 @@
   },
   "devDependencies": {
     "@sap/cds-dk": "^7",
-    "@sap/ux-specification": "^1.102.26",
+    "@sap/ux-specification": "^1.120.1",
     "sqlite3": "^5.0.4"
   },
   "scripts": {
